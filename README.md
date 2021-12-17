@@ -1,1 +1,1 @@
-# Git_training_hub
+# Git_training_v1
